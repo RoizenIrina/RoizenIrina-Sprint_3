@@ -11,7 +11,6 @@ import static org.hamcrest.Matchers.hasSize;
 public class OrderListTest {
     private OrderClient orderClient;
 
-
     @Before
     public void setUp() {
         orderClient = new OrderClient();
