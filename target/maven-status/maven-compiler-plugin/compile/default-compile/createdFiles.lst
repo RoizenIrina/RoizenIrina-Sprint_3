@@ -1,0 +1,8 @@
+org\example\generators\OrderGenerator.class
+org\example\clients\CourierClient.class
+org\example\clients\OrderClient.class
+org\example\Courier.class
+org\example\clients\Client.class
+org\example\Credentials.class
+org\example\Order.class
+org\example\generators\CourierGenerator.class
